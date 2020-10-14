@@ -10,7 +10,7 @@ There are two ways that we could obtain the training data. Manual - where we scr
 Our final decision will strongly depend on the requirements of this class, since using a ready dataset could yield the best result, but may not satisfy the amount of effort this class requires to be placed on the data exploration step. 
 
 Dataset that we currently use
-- https://drive.google.com/drive/folders/1OofnsREqF1QNfUqZPZgcXu2VkWr2JUMA
+- [dataset](https://drive.google.com/drive/folders/1OofnsREqF1QNfUqZPZgcXu2VkWr2JUMA)
 
 ## Data Transformation
 - For the Data transformation part we are going to use LabelImg, it is a graphical image annotation tool.
