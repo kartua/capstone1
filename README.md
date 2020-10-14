@@ -1,4 +1,4 @@
-# capstone1
+# Capstone Project 1, Drexel University
 ## Data Collection
 There are two ways that we could obtain the training data. Manual - where we scrape the internet for the images or a dataset route, where we download the images as part of the dataset.
 
