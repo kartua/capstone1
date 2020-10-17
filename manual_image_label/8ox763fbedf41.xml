@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>8ox763fbedf41.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/8ox763fbedf41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>812</ymin>
+			<xmax>2376</xmax>
+			<ymax>3755</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>coke-can-drew-crawford.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/coke-can-drew-crawford.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>113</ymin>
+			<xmax>707</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

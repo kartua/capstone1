@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>719C2D2iWFL._SL1500_.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/719C2D2iWFL._SL1500_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>1006</ymin>
+			<xmax>1396</xmax>
+			<ymax>1322</ymax>
+		</bndbox>
+	</object>
+</annotation>

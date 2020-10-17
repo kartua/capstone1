@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>tumblr_nsjrmsGfGu1rcb0d2o1_1280.png</filename>
+	<path>/Users/himanshujat/Desktop/cap1/tumblr_nsjrmsGfGu1rcb0d2o1_1280.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>790</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redbull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>79</ymin>
+			<xmax>460</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

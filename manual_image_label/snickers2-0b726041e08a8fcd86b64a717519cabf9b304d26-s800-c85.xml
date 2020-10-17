@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>snickers2-0b726041e08a8fcd86b64a717519cabf9b304d26-s800-c85.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/snickers2-0b726041e08a8fcd86b64a717519cabf9b304d26-s800-c85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>599</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>66</ymin>
+			<xmax>698</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

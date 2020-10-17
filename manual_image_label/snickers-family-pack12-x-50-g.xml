@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>snickers-family-pack12-x-50-g.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/snickers-family-pack12-x-50-g.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>12</ymin>
+			<xmax>189</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

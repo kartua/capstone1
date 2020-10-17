@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>IMG_6309.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/IMG_6309.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redbull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>2</ymin>
+			<xmax>452</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
