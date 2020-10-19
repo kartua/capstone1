@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Slittles</folder>
+	<filename>o3YV6sr3oNpgQvW_duok5QvPP5J7RRGk1-Ap6bztE44.jpg</filename>
+	<path>/Users/harshitgeddam/Desktop/Images/Slittles/o3YV6sr3oNpgQvW_duok5QvPP5J7RRGk1-Ap6bztE44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>537</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Skittles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>349</ymin>
+			<xmax>503</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>
