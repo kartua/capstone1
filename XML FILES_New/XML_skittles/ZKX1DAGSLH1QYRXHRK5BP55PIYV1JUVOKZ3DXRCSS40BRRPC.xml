@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Skittles</folder>
+	<filename>ZKX1DAGSLH1QYRXHRK5BP55PIYV1JUVOKZ3DXRCSS40BRRPC.jpg</filename>
+	<path>/Users/harshitgeddam/Desktop/Images/Skittles/ZKX1DAGSLH1QYRXHRK5BP55PIYV1JUVOKZ3DXRCSS40BRRPC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skittles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>281</ymin>
+			<xmax>416</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

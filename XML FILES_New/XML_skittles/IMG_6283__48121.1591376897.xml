@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Skittles</folder>
+	<filename>IMG_6283__48121.1591376897.webp</filename>
+	<path>/Users/harshitgeddam/Desktop/Images/Skittles/IMG_6283__48121.1591376897.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>659</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skittles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>193</ymin>
+			<xmax>358</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

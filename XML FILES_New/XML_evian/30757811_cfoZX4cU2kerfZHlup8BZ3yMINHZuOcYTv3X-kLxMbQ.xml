@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Evian water</folder>
+	<filename>30757811_cfoZX4cU2kerfZHlup8BZ3yMINHZuOcYTv3X-kLxMbQ.jpg</filename>
+	<path>/Users/harshitgeddam/Desktop/Images/Evian water/30757811_cfoZX4cU2kerfZHlup8BZ3yMINHZuOcYTv3X-kLxMbQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>evian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>158</ymin>
+			<xmax>155</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>evian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>147</ymin>
+			<xmax>203</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>evian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>136</ymin>
+			<xmax>325</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
