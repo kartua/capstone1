@@ -1,4 +1,4 @@
-# List of authors
+Authors
 ## Smith Amornsaensuk
 - EDA.ipynb
 - ExploringDataPickItems.ipynb
