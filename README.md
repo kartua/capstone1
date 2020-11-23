@@ -6,7 +6,7 @@ There were two primary ways we had obtained our data. First being a pre-made dat
     - We download the images containing the objects we are interested in.
     - Open the files in `labelImg` and draw bounding boxes around the target objects. 
 2. Premade dataset:
-    - https://github.com/tobiagru/ObjectDetectionGroceryProducts
+    - https://github.com/tobiagru/ObjectDetectionGroceryProducts#holoselecta
 
 Our complete data corpus contains a combination of images from the first and second approach. This way we obtain a decently sized dataset as well demonstrate the expertise in obtainig and preparing datasets. 
 
