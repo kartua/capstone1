@@ -1,4 +1,4 @@
-Authors
+# Authors
 ## Smith Amornsaensuk
 - EDA.ipynb
 - ExploringDataPickItems.ipynb
@@ -6,3 +6,4 @@ Authors
 ## Chingiz Mardanov
 - Prepare Dataset.ipynb
 - 1change_name_combine.ipynb
+- README.md
