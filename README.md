@@ -1,4 +1,10 @@
 # Capstone Project 1, Drexel University
+
+- Smith Amornsaensuk
+- Himanshu Jat
+- Harshit Geddam
+- Chingiz Mardanov
+
 ## Data Collection
 There were two primary ways we had obtained our data. First being a pre-made dataset that we had tailored for our needs and the second being the manualy scraped images of the web that we then label.
 
