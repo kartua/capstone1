@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>GUEST_7514dd91-da61-4451-8494-3bfdb23a0a6d.jpeg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/GUEST_7514dd91-da61-4451-8494-3bfdb23a0a6d.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>112</ymin>
+			<xmax>470</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

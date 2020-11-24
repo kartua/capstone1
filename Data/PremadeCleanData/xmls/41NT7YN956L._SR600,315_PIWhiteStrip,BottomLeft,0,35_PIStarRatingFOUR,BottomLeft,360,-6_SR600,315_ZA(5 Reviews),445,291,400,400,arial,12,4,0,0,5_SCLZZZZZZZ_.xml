@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>41NT7YN956L._SR600,315_PIWhiteStrip,BottomLeft,0,35_PIStarRatingFOUR,BottomLeft,360,-6_SR600,315_ZA(5 Reviews),445,291,400,400,arial,12,4,0,0,5_SCLZZZZZZZ_.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/41NT7YN956L._SR600,315_PIWhiteStrip,BottomLeft,0,35_PIStarRatingFOUR,BottomLeft,360,-6_SR600,315_ZA(5 Reviews),445,291,400,400,arial,12,4,0,0,5_SCLZZZZZZZ_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>78</ymin>
+			<xmax>486</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

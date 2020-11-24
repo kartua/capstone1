@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>sorel-tracy-canada-april-red-bull-energy-drink-can-over-wood-background-can-red-bull-energy-drink-115089704.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/sorel-tracy-canada-april-red-bull-energy-drink-can-over-wood-background-can-red-bull-energy-drink-115089704.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>redbull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>50</ymin>
+			<xmax>341</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

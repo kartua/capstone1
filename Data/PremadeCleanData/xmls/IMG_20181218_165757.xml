@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation><folder>_Automat</folder><filename>IMG_20181218_165757.jpg</filename><path>gdrive/My Drive/Masterarbeit/ObjectDetection/Images/_Automat/IMG_20181218_165757.jpg</path><source><database>Unknown</database></source><size><width>4640</width><height>3480</height><depth>3</depth></size><segmented>0</segmented><object><name>maltesers</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>2843</xmin><ymin>1430</ymin><xmax>3503</xmax><ymax>2104</ymax></bndbox></object></annotation>

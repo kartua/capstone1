@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>127900-01_twix-fun-size-candy-bars-35-piece-bag.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/127900-01_twix-fun-size-candy-bars-35-piece-bag.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twix</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>189</ymin>
+			<xmax>539</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

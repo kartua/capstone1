@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>depositphotos_41764645-stock-photo-snickers-chocolate-bar-isolated-on.jpg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/depositphotos_41764645-stock-photo-snickers-chocolate-bar-isolated-on.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>678</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>159</ymin>
+			<xmax>1007</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

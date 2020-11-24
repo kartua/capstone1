@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cap1</folder>
+	<filename>images (2).jpeg</filename>
+	<path>/Users/himanshujat/Desktop/cap1/images (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>197</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snickers</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>95</ymin>
+			<xmax>197</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
